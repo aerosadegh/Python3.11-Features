@@ -6,7 +6,7 @@
 
 
 ### 2. Exception Group 
-For the async codes we have `ExceptionGroup` !
+For the async codes we have **Exception Group** !
 ![exception-group.png](./images/exception-group.png)
 
 We have also new syntax `except*` for catching same exceptions in exception group!
