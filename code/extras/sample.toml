@@ -1,0 +1,15 @@
+[tool.isort]
+profile = "black"
+force_single_line = false
+
+
+[tool.pylint.messages_control]
+disable = [
+  "duplicate-code",
+  "super-with-arguments",
+]
+
+[tool.pylint.design]
+max-returns = 8
+max-args = 15
+
