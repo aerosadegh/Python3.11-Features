@@ -22,11 +22,9 @@ def print_item(title: str, func, value):
 
 def main():
     for item_name, func in new_functions.items():
-        of, ov = func["old"]
-        nf, nv = func["new"]
         print(f"New Function Name: {item_name!r}:")
-        print_item("Like Previous:", of, ov)
-        print_item("Now we have", nf, nv)
+        print_item("Like Previous:", *func["old"])
+        print_item("Now we have", *func["new"])
         print()
 
 
