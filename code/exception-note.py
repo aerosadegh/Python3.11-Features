@@ -1,4 +1,4 @@
-# add_note to Exception
+"""Add Note to Exception"""
 
 import random
 import math

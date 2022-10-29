@@ -1,4 +1,4 @@
-# New Math Functions
+"""New Math Functions"""
 
 import math
 

@@ -1,4 +1,4 @@
-# Better Error Massages
+"""Better Error Massages"""
 
 
 def get_info():

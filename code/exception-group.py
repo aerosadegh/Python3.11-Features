@@ -1,4 +1,4 @@
-# Exception Group
+"""Exception Group"""
 
 import asyncio
 
