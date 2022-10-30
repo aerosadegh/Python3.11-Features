@@ -21,3 +21,8 @@ We have also new syntax `except*` for catching same exceptions in exception grou
 ### 4. New `math` Functions
  Now, We have two new functions `math.exp2` and `math.cbrt`.
 ![exception-group.png](./images/new-math-functions.png)
+
+
+### 5. New Module for TOML file
+ Now, We have new module that can load and dump `.toml` files
+![exception-group.png](./images/toml_read.png)
